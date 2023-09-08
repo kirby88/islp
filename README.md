@@ -1,10 +1,13 @@
 # Introduction to statistical learning
 ## With application in Python
 
-These are my exercises resolution for the book.
+This is my attempt at exercises resolution for the ISLP book.
 
 https://hastie.su.domains/ISLP/ISLP_website.pdf
 
+Inspect the data provided by the ISLP package: https://islp.readthedocs.io/
+
+## Status
 
 | Chapter | Conceptual | Applied |
 | ------------- | ------------- | ------------- |
