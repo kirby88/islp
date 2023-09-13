@@ -14,7 +14,7 @@ Inspect the data provided by the ISLP package: https://islp.readthedocs.io/
 | #2 | ❌ | ✅ ||
 | #3 | ❌ | ✅ ||
 | #4 | ✅ | ✅ |Missing ex. 4.11|
-| #5 | ❌ | ❌ ||
+| #5 | ✅ | ❌ |Missing ex. 5.2|
 | #6 | ❌ | ❌ ||
 | #7 | ❌ | ❌ ||
 | #8 | ❌ | ❌ ||
